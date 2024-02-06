@@ -36,6 +36,11 @@ dependencies = [
     "tqdm-multiprocess",
     "transformers>=4.1",
     "zstandard",
+    "radgraph",
+    "f1chexbert",
+    "Pillow",
+    "cryptography",
+    "requests",
 ]
 
 [tool.setuptools.packages.find]
